@@ -1,3 +1,5 @@
+This is a project of Information Retrieval course, finished by our group. 
+
 # IR 2017
 A simple information retrieval system using **python3** and spark.
 
